@@ -1,0 +1,19 @@
+1717659117
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"blog/blog4";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:38:"Pelatihan Manajerial Organisasi HIMAKI";s:4:"date";s:15:"17:34 05/3/2024";s:6:"author";s:13:"Rescue Themes";s:12:"body_classes";s:62:"single single-post postid-15 single-format-standard group-blog";s:8:"taxonomy";a:3:{s:8:"category";s:8:"Training";s:3:"tag";a:1:{i:0;s:8:"Training";}s:8:"featured";b:1;}}s:11:"frontmatter";s:254:"title: 'Pelatihan Manajerial Organisasi HIMAKI'
+date: '17:34 05/3/2024'
+author: 'Rescue Themes'
+body_classes: 'single single-post postid-15 single-format-standard group-blog'
+taxonomy:
+    category: Training
+    tag:
+        - Training
+    featured: true";s:8:"markdown";s:600:" [After Report Pelatihan Manajerial Organisasi]
+
+Saat ini organisasi menjadi hal yang disukai dan dianggap sebagai ranah untuk berkembang.
+
+Organisasi memiliki makna yang luas,tak hanya organisasi dalam sebuah komunitas melainkan banyak hal yang membutuhkan organisator yang baik,maka dari itu HIMAKI meberikan wadah sebagai langkah awal untuk seseorang mengikuti dan berkenala mencari pengalaman.
+
+Pelatihan ini pastinya memberikan impact yang positif bagi mahasiswa kimia.
+
+“We cannot always build the future for our youth, but we can build our youth for the future.” — Franklin D. Roosevelt
+";}s:7:"storage";a:6:{s:3:"key";s:10:"blog/blog4";s:11:"storage_key";s:13:"02.blog/blog4";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1717639086;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1717639086;}}s:8:"checksum";s:32:"a9a61be83713146494d7b7ac919fa6e0";}}

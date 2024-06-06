@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1717599049
+count: 1
+index:
+  kelompok8:
+    storage_key: kelompok8
+    storage_timestamp: 1717599049
+    key: kelompok8
+    email: hiekamnm@gmail.com

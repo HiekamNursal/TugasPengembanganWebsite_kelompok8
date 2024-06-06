@@ -1,0 +1,19 @@
+1717659117
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:9:"menu-baru";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:9:"Menu Baru";s:8:"blog_url";s:9:"menu-baru";s:4:"menu";s:9:"Menu Baru";s:12:"body_classes";s:31:"blog group-blog infinite-scroll";s:7:"sitemap";a:2:{s:10:"changefreq";s:7:"monthly";s:8:"priority";d:1.03;}s:7:"content";a:4:{s:5:"items";s:14:"@self.children";s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:4:"desc";}s:5:"limit";i:10;s:10:"pagination";b:1;}s:4:"feed";a:2:{s:11:"description";s:23:"Sample Blog Description";s:5:"limit";i:10;}s:10:"pagination";b:1;}s:11:"frontmatter";s:354:"title: 'Menu Baru'
+blog_url: menu-baru
+menu: 'Menu Baru'
+body_classes: 'blog group-blog infinite-scroll'
+sitemap:
+    changefreq: monthly
+    priority: 1.03
+content:
+    items: '@self.children'
+    order:
+        by: date
+        dir: desc
+    limit: 10
+    pagination: true
+feed:
+    description: 'Sample Blog Description'
+    limit: 10
+pagination: true";s:8:"markdown";s:0:"";}s:7:"storage";a:7:{s:3:"key";s:9:"menu-baru";s:11:"storage_key";s:12:"05.menu-baru";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1717658440;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1717658440;}}s:8:"children";a:2:{s:12:"submenu-baru";b:0;s:13:"submenu-baru2";b:0;}s:8:"checksum";s:32:"fbefad49423321b6f90aeaf375e5f1cc";}}

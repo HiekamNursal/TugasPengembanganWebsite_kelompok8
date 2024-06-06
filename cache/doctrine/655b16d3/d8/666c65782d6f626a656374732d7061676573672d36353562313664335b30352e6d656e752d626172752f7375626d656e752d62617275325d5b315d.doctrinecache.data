@@ -1,0 +1,3 @@
+1717659117
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:23:"menu-baru/submenu-baru2";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:13:"submenu baru2";s:12:"body_classes";s:62:"single single-post postid-15 single-format-standard group-blog";}s:11:"frontmatter";s:101:"title: 'submenu baru2'
+body_classes: 'single single-post postid-15 single-format-standard group-blog'";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:23:"menu-baru/submenu-baru2";s:11:"storage_key";s:26:"05.menu-baru/submenu-baru2";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1717658232;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1717658201;}}s:8:"checksum";s:32:"1e0732d682b135cd919750c7e7da1222";}}

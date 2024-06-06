@@ -1,0 +1,11 @@
+state: enabled
+email: hiekamnm@gmail.com
+fullname: kelompok8
+title: Admin
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$t6GXj.x8sNe7rp8s29y/WOHnsXgKLj6Dpd716FUHB2dRubq/NSAH6

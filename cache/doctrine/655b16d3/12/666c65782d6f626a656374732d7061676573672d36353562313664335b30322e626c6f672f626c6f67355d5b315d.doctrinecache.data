@@ -1,0 +1,20 @@
+1717659117
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"blog/blog5";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:27:"Selamat Hari Batik Nasional";s:4:"date";s:16:"13:34 05/24/2024";s:6:"author";s:13:"Rescue Themes";s:12:"body_classes";s:62:"single single-post postid-15 single-format-standard group-blog";s:8:"taxonomy";a:2:{s:8:"category";s:5:"Event";s:3:"tag";a:2:{i:0;s:5:"Event";i:1;s:14:"National Event";}}}s:11:"frontmatter";s:246:"title: 'Selamat Hari Batik Nasional'
+date: '13:34 05/24/2024'
+author: 'Rescue Themes'
+body_classes: 'single single-post postid-15 single-format-standard group-blog'
+taxonomy:
+    category: Event
+    tag:
+        - Event
+        - 'National Event'";s:8:"markdown";s:293:"[HIMAKI BERBATIK]
+
+Selamat Hari Batik!
+
+Mari kita sambut bulan Oktober dengan merayakan keindahan budaya batik.
+
+Hari ini, sobat Himaki tampil estetik mengenakan batik dalam berbagai corak dan warna, loh! 🤩
+
+Siapa yang hari ini berbatik juga? Yuk, bersama-sama menjaga warisan batik kita.
+
+";}s:7:"storage";a:6:{s:3:"key";s:10:"blog/blog5";s:11:"storage_key";s:13:"02.blog/blog5";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1717638584;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1717638584;}}s:8:"checksum";s:32:"e77e95725092fa1be6b3d4e37fb48586";}}

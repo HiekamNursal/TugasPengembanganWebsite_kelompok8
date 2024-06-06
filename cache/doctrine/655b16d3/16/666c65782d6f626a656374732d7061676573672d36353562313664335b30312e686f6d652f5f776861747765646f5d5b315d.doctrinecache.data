@@ -1,0 +1,12 @@
+1717659117
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:14:"home/_whatwedo";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"vimeo";a:3:{s:3:"src";s:41:"https://www.youtube.com/embed/GvA-GvEi6f8";s:5:"width";i:570;s:6:"height";i:321;}s:5:"class";s:12:"home-content";s:7:"buttons";a:1:{i:0;a:3:{s:4:"text";s:16:"Ayo Kenali Kimia";s:3:"url";s:8:"/contact";s:5:"class";s:13:"button radius";}}}s:11:"frontmatter";s:211:"vimeo:
+    src: 'https://www.youtube.com/embed/GvA-GvEi6f8'
+    width: 570
+    height: 321
+class: home-content
+buttons:
+    -
+        text: 'Ayo Kenali Kimia'
+        url: /contact
+        class: 'button radius'";s:8:"markdown";s:62:"### See What We’re Doing  
+Everything we have done is here!.";}s:7:"storage";a:6:{s:3:"key";s:14:"home/_whatwedo";s:11:"storage_key";s:17:"01.home/_whatwedo";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1717600176;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1717600176;}}s:8:"checksum";s:32:"58f20cc7dbcc5842721a49bd795b00d4";}}

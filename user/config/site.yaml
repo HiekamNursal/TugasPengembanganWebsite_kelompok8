@@ -1,0 +1,41 @@
+title: 'Kimia'
+default_lang: en
+author:
+  name: 'Kelompok 8'
+  email: hiekamnm@gmail.com
+  copyright: 'Copyright 2013 Gateway. All Rights Reserved.'
+taxonomies:
+  - category
+  - tag
+  - featured
+metadata:
+  description: 'Situs Program Studi Kimia Universitas Airlangga'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
+logo: logo_new.png
+header:
+  title: 'Chemistry Airlangga University'
+  description: 'Semua tentang Kimia Universitas Airlangga ada di sini!'
+  background: background_new.jpg
+  buttons:
+    -
+      text: 'Explore More'
+      url: /blog
+      class: 'button radius'
+social:
+  -
+    url: 'https://www.instagram.com/himakiunair/'
+    icon: instagram
+footer:
+  widget:
+    title: 'Kimia Universitas Airlangga'
+    description: ''
+    link: null
+copyright: 'Copyright © 2015 <a href="http://rescuethemes.com/">Rescue Themes</a>. All Rights Reserved. Converted by <a href="http://www.getgrav.org">Grav Team</a>'

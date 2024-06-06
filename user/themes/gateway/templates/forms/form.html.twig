@@ -1,0 +1,8 @@
+{% extends 'forms/default/form.html.twig' %}
+{% block form_classes %}
+  class="{{ form.classes }} contact-form commentsblock"
+{% endblock %}
+
+{% block button_classes %}
+  class="{{ button.classes|default('button') }} pushbutton-wide"
+{% endblock %}

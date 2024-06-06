@@ -1,0 +1,36 @@
+{% if config.plugins.simplesearch.enabled %}
+<aside class="widget widget_search">
+    <h1 class="widget-title">SimpleSearch</h1>
+    {% include 'partials/simplesearch_searchbox.html.twig' %}
+</aside>
+{% endif %}
+{% if config.plugins.taxonomylist.enabled %}
+<aside class="widget widget_categories">
+    <h1 class="widget-title">Categories</h1>
+    {% include 'partials/categorylist.html.twig' with {'taxonomy':'category', 'base_url':the_base_url} %}
+</aside>
+{% endif %}
+{% if config.plugins.random.enabled %}
+<aside class="widget widget_categories">
+	<h1 class="widget-title">Random Article</h1>
+	<a class="button" href="{{ base_url_relative }}/random"><i class="fa fa-retweet"></i> I'm Feeling Lucky!</a>
+</aside>
+{% endif %}
+<aside class="widget widget_recent_entries">
+	<h1 class="widget-title">Recent Posts</h1>
+  <ul>
+{% for post in page.find('/blog').children.order('date', 'desc').slice(0, 5) %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+</aside>
+{% if config.plugins.taxonomylist.enabled %}
+<aside class="widget widget_tag_cloud">
+    <h1 class="widget-title">Popular Tags</h1>
+    {% include 'partials/taxonomylist.html.twig' with {'taxonomy':'tag', 'base_url':the_base_url} %}
+</aside>
+{% endif %}
+{% if config.plugins.feed.enabled %}
+{% endif %}

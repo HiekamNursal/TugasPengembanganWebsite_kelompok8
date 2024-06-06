@@ -1,0 +1,51 @@
+1717659117
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:7:"contact";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:7:"Contact";s:4:"form";a:4:{s:4:"name";s:12:"my-nice-form";s:6:"fields";a:3:{i:0;a:7:{s:4:"name";s:4:"name";s:5:"label";s:4:"Name";s:11:"placeholder";s:15:"Enter your name";s:9:"autofocus";s:2:"on";s:12:"autocomplete";s:2:"on";s:4:"type";s:4:"text";s:8:"validate";a:1:{s:8:"required";b:1;}}i:1;a:5:{s:4:"name";s:5:"email";s:5:"label";s:5:"Email";s:11:"placeholder";s:24:"Enter your email address";s:4:"type";s:4:"text";s:8:"validate";a:2:{s:4:"rule";s:5:"email";s:8:"required";b:1;}}i:2;a:6:{s:4:"name";s:7:"message";s:5:"label";s:7:"Message";s:4:"size";s:4:"long";s:11:"placeholder";s:18:"Enter your message";s:4:"type";s:8:"textarea";s:8:"validate";a:1:{s:8:"required";b:1;}}}s:7:"buttons";a:1:{i:0;a:3:{s:4:"type";s:6:"submit";s:5:"value";s:9:"Submit »";s:7:"classes";s:3:"btn";}}s:7:"process";a:4:{i:0;a:1:{s:5:"email";a:4:{s:4:"from";s:31:"{{ config.plugins.email.from }}";s:2:"to";a:2:{i:0;s:31:"{{ config.plugins.email.from }}";i:1;s:22:"{{ form.value.email }}";}s:7:"subject";s:34:"[Feedback] {{ form.value.name|e }}";s:4:"body";s:36:"{% include 'forms/data.html.twig' %}";}}i:1;a:1:{s:4:"save";a:4:{s:10:"fileprefix";s:9:"feedback-";s:10:"dateformat";s:9:"Ymd-His-u";s:9:"extension";s:3:"txt";s:4:"body";s:35:"{% include 'forms/data.txt.twig' %}";}}i:2;a:1:{s:7:"message";s:28:"Thank you for your feedback!";}i:3;a:1:{s:7:"display";s:8:"thankyou";}}}}s:11:"frontmatter";s:1262:"title: Contact
+form:
+    name: my-nice-form
+    fields:
+        - name: name
+          label: Name
+          placeholder: Enter your name
+          autofocus: on
+          autocomplete: on
+          type: text
+          validate:
+            required: true
+
+        - name: email
+          label: Email
+          placeholder: Enter your email address
+          type: text
+          validate:
+            rule: email
+            required: true
+
+        - name: message
+          label: Message
+          size: long
+          placeholder: Enter your message
+          type: textarea
+          validate:
+            required: true
+
+    buttons:
+        - type: submit
+          value: Submit »
+          classes: btn
+
+    process:
+        - email:
+            from: "{{ config.plugins.email.from }}"
+            to:
+              - "{{ config.plugins.email.from }}"
+              - "{{ form.value.email }}"
+            subject: "[Feedback] {{ form.value.name|e }}"
+            body: "{% include 'forms/data.html.twig' %}"
+        - save:
+            fileprefix: feedback-
+            dateformat: Ymd-His-u
+            extension: txt
+            body: "{% include 'forms/data.txt.twig' %}"
+        - message: Thank you for your feedback!
+        - display: thankyou";s:8:"markdown";s:90:"Do you have any questions? Or do you want to contact us? Please fill out this form below!
+";}s:7:"storage";a:7:{s:3:"key";s:7:"contact";s:11:"storage_key";s:10:"03.contact";s:8:"template";s:4:"form";s:17:"storage_timestamp";i:1717598831;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"form";i:1717598831;}}s:8:"children";a:1:{s:8:"thankyou";b:0;}s:8:"checksum";s:32:"aa32b7639a0b8395f8463b1f0a70964c";}}

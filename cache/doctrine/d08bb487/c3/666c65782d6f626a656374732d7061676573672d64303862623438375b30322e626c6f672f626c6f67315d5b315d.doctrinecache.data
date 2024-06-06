@@ -1,0 +1,18 @@
+1717659131
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"blog/blog1";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:40:"INTERNATIONAL COMMUNITY DEVELOPMENT 2023";s:4:"date";s:16:"08:11 04/20/2024";s:6:"author";s:13:"Rescue Themes";s:12:"body_classes";s:62:"single single-post postid-15 single-format-standard group-blog";s:8:"taxonomy";a:3:{s:8:"category";a:1:{i:0;s:8:"Training";}s:3:"tag";a:2:{i:0;s:35:"International Community Development";i:1;s:3:"ICD";}s:8:"featured";a:1:{i:0;s:1:"1";}}}s:11:"frontmatter";s:319:"title: 'INTERNATIONAL COMMUNITY DEVELOPMENT 2023'
+date: '08:11 04/20/2024'
+author: 'Rescue Themes'
+body_classes: 'single single-post postid-15 single-format-standard group-blog'
+taxonomy:
+    category:
+        - Training
+    tag:
+        - 'International Community Development'
+        - ICD
+    featured:
+        - '1'";s:8:"markdown";s:298:"[INTERNATIONAL COMMUNITY DEVELOPMENT 2023]
+
+Excellent chemistry !!
+Bravo Himaki!!
+
+Pada 9-15 Agustus 2023, Departemen Kimia telah melaksanakan sebuah kegiatan pengabdian masyarakat yang melibatkan kolaborasi antara mahasiswa program studi Kimia Universitas Airlangga dengan mahasiswa internasional.";}s:7:"storage";a:6:{s:3:"key";s:10:"blog/blog1";s:11:"storage_key";s:13:"02.blog/blog1";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1717638295;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1717638242;}}s:8:"checksum";s:32:"aa95f7f930c1c7829fb9e6b0802edaa5";}}
